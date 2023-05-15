@@ -8,9 +8,9 @@ Doesn't support custom urls since I find that useless for my use
 On successful conversion
 ```json
 {
-    "SteamID": "STEAM_0:1:224372474",
-    "SteamID3": "[U:1:448744949]",
-    "SteamID64": "76561198409010677"
+    "SteamID": "STEAM_0:0:736989607",
+    "SteamID3": "[U:1:1473979214]",
+    "SteamID64": "76561199434244942"
 }
 ```
 On invalid steamid
